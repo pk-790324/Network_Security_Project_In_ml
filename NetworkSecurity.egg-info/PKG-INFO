@@ -1,4 +1,4 @@
-Metadata-Version: 2.1
+Metadata-Version: 2.4
 Name: NetworkSecurity
 Version: 0.0.1
 Author: pappu yadav
@@ -9,4 +9,8 @@ Requires-Dist: pandas
 Requires-Dist: matplotlib
 Requires-Dist: seaborn
 Requires-Dist: pymongo
+Requires-Dist: pymongo[srv]==3.12
 Requires-Dist: certifi
+Dynamic: author
+Dynamic: author-email
+Dynamic: requires-dist
