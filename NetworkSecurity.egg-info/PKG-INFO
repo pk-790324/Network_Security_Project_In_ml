@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: NetworkSecurity
+Version: 0.0.1
+Author: pappu yadav
+Author-email: pappuyadav98199@gmail.com
+Requires-Dist: python-dotenv
+Requires-Dist: numpy
+Requires-Dist: pandas
+Requires-Dist: matplotlib
+Requires-Dist: seaborn
+Requires-Dist: pymongo
+Requires-Dist: certifi
